@@ -2,9 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="myTheme">#01B763</color>
-    <color name="myThemeLight">#67D4A1</color>
-    <color name="myThemeExtraLight">#E6F8EF</color>
+    <color name="myTheme">#0f60a1</color>
+    <color name="myThemeLight">#398ed3</color>
+    <color name="myThemeExtraLight">#6fbcfa</color>
     <color name="textColor">#212121</color>
     <color name="transparent">#00FFFFFF</color>
 </resources>

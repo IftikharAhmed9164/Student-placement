@@ -10,8 +10,8 @@
     android:gravity="center">
 
     <ImageView
-        android:layout_width="170dp"
-        android:layout_height="170dp"
+        android:layout_width="260dp"
+        android:layout_height="260dp"
         android:src="@drawable/logo"/>
 
     <ProgressBar
