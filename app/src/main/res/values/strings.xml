@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Student-Placement</string>
+    <string name="enter_tpo_id">Enter TPO ID</string>
+    <string name="select_category_for_notification">Select Notification Category</string>
+</resources>
